@@ -1,0 +1,19 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "week 7 - A simple nodejs server setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Supablu/Week-7---Set-up-a-nodejs-server.git"
+  },
+  "author": "Luis del Valle-Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Supablu/Week-7---Set-up-a-nodejs-server/issues"
+  },
+  "homepage": "https://github.com/Supablu/Week-7---Set-up-a-nodejs-server#readme"
+}
